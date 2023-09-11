@@ -36,13 +36,14 @@ Once the bot is running on your server, you can use the provided commands to fet
 Feel free to customize the bot by modifying its code. For instance, you can change the command prefix, supported image file extensions, or add more features as needed.
 
 ## Contributing
+
 Contributions to this project are welcomed! If you'd like to contribute, please follow these guidelines:
 
-1.Fork the repository.
-2.Create a new branch for your feature or bug fix.
-3.Make your changes.
-4.Commit your changes and push them to your fork.
-5.Submit a pull request to the original repository.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes.
+4. Commit your changes and push them to your fork.
+5. Submit a pull request to the original repository.
 
 ## License
 
