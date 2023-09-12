@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 - [discord.py](https://discordpy.readthedocs.io/en/stable/): The library for building Discord bots.
 - [requests](https://docs.python-requests.org/en/master/): A library for making HTTP requests in Python.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): A library for web scraping purposes.
-- (Add other libraries used in your project)
+
 ---
 
 Thank you for using our DiscordBot! If you have any questions or need assistance, please reach out to the project maintainers.
