@@ -9,12 +9,17 @@ intents.typing = True
 intents.message_content = True  # Allow tracking of message content
 bot = commands.Bot(command_prefix='!', intents=intents)
 
+
+
 @bot.command()
 async def post_image(ctx):
     download_dir = 'downloaded_images'
     
     # List all files in the download directory
     files = os.listdir(download_dir)
+    x= 12
+    y=52
+    z= x+y
     
     # Filter for image files (you can add more supported extensions)
     image_files = [f for f in files if f.endswith(('.jpg', '.png', '.jpeg', '.gif'))]
